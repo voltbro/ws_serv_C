@@ -4,6 +4,7 @@ import time
 import tqdm
 import string
 import random
+import os
 
 configuration_number = "0x1111"
 version = "0.0.1"
