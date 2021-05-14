@@ -1,0 +1,4 @@
+<launch>
+    <node pkg="ws_serv_C" type="service_configuration.py" name="service_configuration" output="screen">
+    </node>
+</launch>
