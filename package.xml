@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <package format="2">
-  <name>ws_serv_C</name>
+  <name>ws_serv_c</name>
   <version>0.0.1</version>
-  <description>The ws_serv_C package</description>
+  <description>The ws_serv_c package</description>
 
   <!-- One maintainer tag required, multiple allowed, one person per tag -->
   <!-- Example:  -->
@@ -19,7 +19,7 @@
   <!-- Url tags are optional, but multiple are allowed, one per tag -->
   <!-- Optional attribute type can be: website, bugtracker, or repository -->
   <!-- Example: -->
-  <!-- <url type="website">http://wiki.ros.org/ws_serv_C</url> -->
+  <!-- <url type="website">http://wiki.ros.org/ws_serv_c</url> -->
 
 
   <!-- Author tags are optional, multiple are allowed, one per tag -->
