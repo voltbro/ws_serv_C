@@ -6,8 +6,8 @@ import string
 import random
 import os
 
-configuration_number = "0x9b41"
-version = "0.4.1"
+configuration_number = "0x5446"
+version = "0.5.1"
 
 print(os.system("ls -la"))
 
